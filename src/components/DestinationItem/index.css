@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.item-holder {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 40px;
+}
+.image {
+  width: 200px;
+}
+.name-heading {
+  font-size: 14px;
+  color: #252627;
+  font-weight: 400;
+}

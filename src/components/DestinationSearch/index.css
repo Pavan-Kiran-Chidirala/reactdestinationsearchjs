@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.top-container {
+  display: flex;
+  flex-direction: column;
+  padding: 100px;
+  background-color: white;
+}
+.main-heading {
+  font-size: 30px;
+}
+.input-holder {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 190px;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #f1f5f9;
+}
+.search-icon {
+  width: 25px;
+  height: 25px;
+  color: black;
+  background-color: #f1f5f9;
+}
+.search-bar {
+  width: 150px;
+  border: none;
+  outline: none;
+  background-color: #f1f5f9;
+  padding: 5px;
+}
+.content-holder {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
